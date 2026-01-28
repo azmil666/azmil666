@@ -131,7 +131,6 @@ I enjoy turning ideas into polished products — from intuitive frontend experie
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
-
-![](https://visitcount.itsvg.in/api?id=azmil666\&icon=0\&color=0)
+[![](https://visitcount.itsvg.in/api?id=azmil666&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
