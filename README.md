@@ -1,20 +1,137 @@
-# 💫 About Me:
-## 💫 About Me<br><br>👋 Hey, I’m **Azmil Mohammed** — a hands-on developer who loves turning ideas into real, polished products.<br><br>💻 **Full-Stack Developer | 🐍 Python Builder | 🌐 Web & App Engineer | ⚡ Product-Driven Problem Solver**<br><br>I enjoy building systems that actually *work in the real world* — from clean UI experiences to reliable backends and smart automations. Lately, my focus has shifted toward creating scalable web apps, Python-based tools, and modern frontend experiences with strong attention to performance, UX, and maintainability.<br><br>I like experimenting fast, shipping often, and continuously refining projects until they feel professional — not just “college projects.”<br><br>🚀 What I’m Currently Focused On<br><br>* 🧩 Building full-stack web apps with **React, TypeScript, Node, and modern UI stacks**<br>* 🐍 Developing **Python projects** for automation, data handling, and utilities<br>* 🎨 Crafting **high-quality UI/UX** with smooth animations and clean design systems<br>* ⚙️ Strengthening backend architecture, APIs, and database design<br>* ☁️ Exploring deployment, performance optimization, and production workflows<br><br>🧠 What I Enjoy Building<br><br>* Developer tools & productivity apps<br>* Interactive web platforms<br>* Smart automation tools<br>* Clean dashboards & admin panels<br>* Experimental side projects with creative ideas<br><br>🌱 Always Learning<br><br>* Advanced frontend patterns & performance optimization<br>* Scalable backend systems<br>* Python for real-world problem solving<br>* System design fundamentals<br><br>**Motto:** *“Build things that actually matter — then make them better.”*<br><br>
+## 👋 About Me
 
+Hey, I’m **Azmil Mohammed** — a hands-on developer focused on building clean, reliable, and production-ready software.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azmil-mohammed-6a0768332) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azmilmohammed369@gmail.com) 
+💻 Full-Stack Developer · 🐍 Python Builder · 🌐 Web Engineer · ⚡ Product-Driven Problem Solver
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=azmil666&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=azmil666&theme=catppuccin_latte&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmil666&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy turning ideas into polished products — from intuitive frontend experiences to scalable backend systems and automation tools. I care deeply about performance, UX, maintainability, and clean architecture.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+**Currently focused on**
+
+* Building full-stack applications with **React, TypeScript, Node, and modern UI stacks**
+* Developing **Python tools** for automation and data workflows
+* Crafting high-quality **UI/UX with smooth animations**
+* Strengthening **APIs, databases, and system design**
+* Exploring **deployment, optimization, and production workflows**
+
+**Motto:** *Build things that matter — then make them better.*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=azmil666&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/azmil-mohammed-6a0768332)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:azmilmohammed369@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Languages
+
+![C](https://img.shields.io/badge/C-00599c?style=flat-square\&logo=c\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square\&logo=dart\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square\&logo=html5\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670a0?style=flat-square\&logo=python\&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square\&logo=openjdk\&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square\&logo=latex\&logoColor=white)
+
+---
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square\&logo=react)
+![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=flat-square\&logo=svelte\&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-ff3e00?style=flat-square\&logo=svelte\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue-35495e?style=flat-square\&logo=vuedotjs\&logoColor=4fc08d)
+![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square\&logo=flutter\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38b2ac?style=flat-square\&logo=tailwind-css\&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN-000000?style=flat-square)
+![Framer Motion](https://img.shields.io/badge/Framer-0055ff?style=flat-square\&logo=framer)
+![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square\&logo=vite\&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-2c2052?style=flat-square\&logo=astro)
+
+---
+
+### ⚙️ Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask)
+![Django](https://img.shields.io/badge/Django-092e20?style=flat-square\&logo=django\&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square\&logo=electron)
+![Zod](https://img.shields.io/badge/Zod-3e67b1?style=flat-square)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-3982ce?style=flat-square\&logo=prisma)
+
+---
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00e5ff?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square\&logo=mysql\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square\&logo=sqlite\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square\&logo=supabase\&logoColor=white)
+
+---
+
+### ☁️ Cloud & Hosting
+
+![AWS](https://img.shields.io/badge/AWS-ff9900?style=flat-square\&logo=amazon-aws\&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285f4?style=flat-square\&logo=google-cloud\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square\&logo=firebase\&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00c7b7?style=flat-square\&logo=netlify\&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-f38020?style=flat-square\&logo=cloudflare\&logoColor=white)
+
+---
+
+### 🧪 Tooling & Workflow
+
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671e5?style=flat-square\&logo=githubactions\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square\&logo=docker\&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-cb3837?style=flat-square\&logo=npm\&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-f69220?style=flat-square\&logo=pnpm\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square\&logo=postman\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square\&logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4eaa25?style=flat-square\&logo=gnu-bash\&logoColor=white)
+
+---
+
+### 🎨 Design & Data
+
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00c4cc?style=flat-square\&logo=canva\&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31a8ff?style=flat-square\&logo=adobephotoshop\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=azmil666\&theme=catppuccin_latte\&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=azmil666\&theme=catppuccin_latte\&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmil666\&layout=compact\&theme=catppuccin_latte\&hide_border=true)
+
+---
+
+## ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=azmil666\&icon=0\&color=0)
+
+---
