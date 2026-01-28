@@ -4,6 +4,10 @@
 👋 Hey there, I’m Azmil Mohammed<br><br>💻 Cybersecurity Enthusiast | 🤖 AI Explorer | 🌐 Full-Stack & App Developer | 💡 Innovator with Unique Ideas<br><br>I’m passionate about building projects that combine security, intelligence, and creativity — from safeguarding systems to designing smart apps that actually stand out.<br>My focus is on exploring how AI and cybersecurity can blend to create the next wave of secure and intelligent digital experiences.<br><br>🔐 Exploring:<br>	•	Ethical hacking & endpoint security<br>	•	AI-driven automation and threat detection<br>	•	Innovative app & web development (with creative UI/UX twists)<br><br>🚀 Always experimenting with fresh concepts — whether it’s a random internet content generator, AI integrations, or tools that make digital life smarter and safer.<br><br>📚 Currently leveling up in:<br>	•	Cybersecurity fundamentals & network defense<br>	•	AI integrations in real-world apps<br>	•	Full-stack development with Java & React<br><br>🌱 Motto: “Innovation begins where comfort ends.”
 
 
+[![Azmil's GitHub stats](https://github-readme-stats.vercel.app/api?username=azmil666&show_icons=true&theme=github_dark)](https://github.com/azmil666)
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmil-mohammed-6a0768332/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azmilmohammed369@gmail.com) 
 
