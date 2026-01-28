@@ -131,6 +131,7 @@ I enjoy turning ideas into polished products — from intuitive frontend experie
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=azmil666&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=azmil666&label=Profile%20Views&color=4f46e5&icon=5&pretty=true)
+---
 ![Profile views](https://komarev.com/ghpvc/?username=azmil666&color=blue)
 ---
