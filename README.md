@@ -133,6 +133,5 @@ I enjoy turning ideas into polished products — from intuitive frontend experie
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=azmil666&color=blue)
 ---
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=azmil666&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
