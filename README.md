@@ -1,137 +1,31 @@
-## 👋 About Me
+# Hi 👋, I'm Azmil Mohammed 
 
-Hey, I’m **Azmil Mohammed** — a hands-on developer focused on building clean, reliable, and production-ready software.
+### Creative Developer
 
-💻 Full-Stack Developer · 🐍 Python Builder · 🌐 Web Engineer · ⚡ Product-Driven Problem Solver
+- 🔭 I'm currently working on **Building and refining projects while exploring new ideas**
 
-I enjoy turning ideas into polished products — from intuitive frontend experiences to scalable backend systems and automation tools. I care deeply about performance, UX, maintainability, and clean architecture.
+- 🌱 I'm currently learning **Learning through building**
 
-**Currently focused on**
+- 💬 Ask me about **Projects, ideas, and building things**
 
-* Building full-stack applications with **React, TypeScript, Node, and modern UI stacks**
-* Developing **Python tools** for automation and data workflows
-* Crafting high-quality **UI/UX with smooth animations**
-* Strengthening **APIs, databases, and system design**
-* Exploring **deployment, optimization, and production workflows**
+- 📫 How to reach me **azmilmohammed369@gmail.com**
 
-**Motto:** *Build things that matter — then make them better.*
+- 👨‍💻 Check out my portfolio at **[https://www.azmil.xyz](https://www.azmil.xyz)**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/azmil666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="azmil666" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/azmil-mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azmil-mohammed" height="30" width="40" /></a>
+<a href="https://hackerrank.com/azmil666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="azmil666" height="30" width="40" /></a>
+<a href="https://leetcode.com/azmil666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azmil666" height="30" width="40" /></a>
+</p>
 
-## 🌐 Connect With Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/svelte" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/azmil-mohammed-6a0768332)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:azmilmohammed369@gmail.com)
 
----
+### Stats
 
-## 💻 Tech Stack
-
-### 🧠 Languages
-
-![C](https://img.shields.io/badge/C-00599c?style=flat-square\&logo=c\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square\&logo=dart\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square\&logo=html5\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670a0?style=flat-square\&logo=python\&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square\&logo=openjdk\&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square\&logo=latex\&logoColor=white)
-
----
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square\&logo=react)
-![Svelte](https://img.shields.io/badge/Svelte-ff3e00?style=flat-square\&logo=svelte\&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-ff3e00?style=flat-square\&logo=svelte\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue-35495e?style=flat-square\&logo=vuedotjs\&logoColor=4fc08d)
-![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square\&logo=flutter\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38b2ac?style=flat-square\&logo=tailwind-css\&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN-000000?style=flat-square)
-![Framer Motion](https://img.shields.io/badge/Framer-0055ff?style=flat-square\&logo=framer)
-![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square\&logo=vite\&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-2c2052?style=flat-square\&logo=astro)
-
----
-
-### ⚙️ Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask)
-![Django](https://img.shields.io/badge/Django-092e20?style=flat-square\&logo=django\&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square\&logo=electron)
-![Zod](https://img.shields.io/badge/Zod-3e67b1?style=flat-square)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?style=flat-square)
-![Prisma](https://img.shields.io/badge/Prisma-3982ce?style=flat-square\&logo=prisma)
-
----
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00e5ff?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square\&logo=sqlite\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square\&logo=supabase\&logoColor=white)
-
----
-
-### ☁️ Cloud & Hosting
-
-![AWS](https://img.shields.io/badge/AWS-ff9900?style=flat-square\&logo=amazon-aws\&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285f4?style=flat-square\&logo=google-cloud\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square\&logo=firebase\&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00c7b7?style=flat-square\&logo=netlify\&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-f38020?style=flat-square\&logo=cloudflare\&logoColor=white)
-
----
-
-### 🧪 Tooling & Workflow
-
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671e5?style=flat-square\&logo=githubactions\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square\&logo=docker\&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-cb3837?style=flat-square\&logo=npm\&logoColor=white)
-![PNPM](https://img.shields.io/badge/PNPM-f69220?style=flat-square\&logo=pnpm\&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-ff6c37?style=flat-square\&logo=postman\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square\&logo=linux\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4eaa25?style=flat-square\&logo=gnu-bash\&logoColor=white)
-
----
-
-### 🎨 Design & Data
-
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00c4cc?style=flat-square\&logo=canva\&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31a8ff?style=flat-square\&logo=adobephotoshop\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=azmil666\&theme=catppuccin_latte\&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=azmil666\&theme=catppuccin_latte\&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azmil666\&layout=compact\&theme=catppuccin_latte\&hide_border=true)
-
----
-
-## ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
----
-![Profile views](https://komarev.com/ghpvc/?username=azmil666&color=blue)
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmil666&" alt="azmil666" /></p>
 
 
