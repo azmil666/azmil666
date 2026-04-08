@@ -12,6 +12,10 @@
 
 - 👨‍💻 Check out my portfolio at **[https://www.azmil.xyz](https://www.azmil.xyz)**
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azmil666&bg_color=0d1117&color=8b949e&line=238636&point=ffffff&area=true&hide_border=true" />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/azmil666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="azmil666" height="30" width="40" /></a>
@@ -28,9 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmil666&" alt="azmil666" /></p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azmil666&bg_color=0d1117&color=8b949e&line=238636&point=ffffff&area=true&hide_border=true" />
-</div>
 
 
 
