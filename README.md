@@ -28,6 +28,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmil666&" alt="azmil666" /></p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azmil666&bg_color=0d1117&color=8b949e&line=238636&point=ffffff&area=true&hide_border=true" />
+</div>
+
+
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=azmil666&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
