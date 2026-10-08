@@ -39,8 +39,11 @@
 
 ### Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmil666&" alt="azmil666" /></p>
+<h3 align="center">GitHub Stats</h3>
 
+<div align="center">
+  <img src="./stats.svg" width="700" alt="Azmil's GitHub stats" />
+</div>
 
 
 
