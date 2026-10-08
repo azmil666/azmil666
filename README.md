@@ -30,7 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,css,docker,express,fastapi,figma,flutter,git,html,js,linux,mongodb,mysql,nestjs,nodejs,python,react,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=c,css,dart,docker,express,fastapi,figma,flutter,git,html,js,linux,mongodb,mysql,nestjs,nodejs,python,react,tailwind,ts" />
 </p>
 
 
