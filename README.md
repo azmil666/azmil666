@@ -12,9 +12,6 @@
 
 - 👨‍💻 Check out my portfolio at **[https://www.azmil.xyz](https://www.azmil.xyz)**
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azmil666&theme=github-compact&hide_border=true" />
-</div>
 
 <h3 align="left">Connect with me:</h3>
 
