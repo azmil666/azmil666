@@ -37,14 +37,11 @@
 </p>
 
 
-### Stats
-
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="./stats.svg" width="700" alt="Azmil's GitHub stats" />
+  <img src="./stats.svg" width="520" alt="Azmil's GitHub stats" />
 </div>
-
 
 
 <p>
